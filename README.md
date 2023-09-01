@@ -1,4 +1,19 @@
-# React + Vite
+# Poke-Api
+## Tool installation and library
+
+```sh
+npm create vite@latest
+cd . \user\
+npm install
+code .
+npm i axios
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm i @reduxjs/toolkit react-redux
+npm i react-router-dom     
+npm run dev
+```
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
